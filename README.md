@@ -55,10 +55,10 @@ location /sitex {
         	proxy_set_header X-Forwarded-Port $server_port;} 
  
  
-               ![IMG-20230110-WA0010](https://user-images.githubusercontent.com/87112355/211549899-403ce142-c278-4f66-84b9-4d8efade3189.jpg)
-               ![IMG-20230110-WA0009](https://user-images.githubusercontent.com/87112355/211549939-69fec7aa-2a37-40d0-ac2c-aef5d6a39619.jpg)
-               ![IMG-20230110-WA0008](https://user-images.githubusercontent.com/87112355/211549978-c986f4a0-de5f-4787-a841-0b3bd06a30c2.jpg)
-               ![IMG-20230110-WA0011](https://user-images.githubusercontent.com/87112355/211550049-b8578913-a1bc-4249-a729-9e20b143b1cc.jpg)
+![IMG-20230110-WA0010](https://user-images.githubusercontent.com/87112355/211549899-403ce142-c278-4f66-84b9-4d8efade3189.jpg)
+![IMG-20230110-WA0009](https://user-images.githubusercontent.com/87112355/211549939-69fec7aa-2a37-40d0-ac2c-aef5d6a39619.jpg)
+![IMG-20230110-WA0008](https://user-images.githubusercontent.com/87112355/211549978-c986f4a0-de5f-4787-a841-0b3bd06a30c2.jpg)
+![IMG-20230110-WA0011](https://user-images.githubusercontent.com/87112355/211550049-b8578913-a1bc-4249-a729-9e20b143b1cc.jpg)
 
 
 
