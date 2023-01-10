@@ -32,6 +32,8 @@ By editing config files.
 ```
 cd /etc/nginx/sites-enabled
 sudo "${EDITOR:-vi}" default
+ ```
+ ```
 location /site X {
         proxy_pass http://site X;
         proxy_buffering off;
