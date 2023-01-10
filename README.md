@@ -50,12 +50,10 @@ location /sitex {
         	proxy_set_header X-Forwarded-Host $host;
         	proxy_set_header X-Forwarded-Port $server_port;
         }
-        
-        ![WhatsApp Image 2023-01-10 at 14 57 32](https://user-images.githubusercontent.com/87112355/211546556-ab646177-b0b1-4511-a046-f726a714a129.jpg)
-        ![WhatsApp Image 2023-01-10 at 14 57 32](https://user-images.githubusercontent.com/87112355/211546882-5b327827-e603-418c-b9f7-34e1032d2e0b.jpg)
-        ![WhatsApp Image 2023-01-10 at 14 57 32](https://user-images.githubusercontent.com/87112355/211546957-f54dc31b-9ef9-48d7-9702-8fe80bbf199e.jpg)
-        ![WhatsApp Image 2023-01-10 at 14 57 33](https://user-images.githubusercontent.com/87112355/211547068-cdac6422-0e58-4b11-9321-dddc6a37e5fe.jpg)
-        ![IMG-20230110-WA0011](https://user-images.githubusercontent.com/87112355/211548791-c1aa2d2a-35a1-47a9-b75a-d03f41bc5ad9.jpg)
+        ![IMG-20230110-WA0010](https://user-images.githubusercontent.com/87112355/211549899-403ce142-c278-4f66-84b9-4d8efade3189.jpg)
+        ![IMG-20230110-WA0009](https://user-images.githubusercontent.com/87112355/211549939-69fec7aa-2a37-40d0-ac2c-aef5d6a39619.jpg)
+        ![IMG-20230110-WA0008](https://user-images.githubusercontent.com/87112355/211549978-c986f4a0-de5f-4787-a841-0b3bd06a30c2.jpg)
+        ![IMG-20230110-WA0011](https://user-images.githubusercontent.com/87112355/211550049-b8578913-a1bc-4249-a729-9e20b143b1cc.jpg)
 
 
 
