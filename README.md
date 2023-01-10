@@ -61,7 +61,10 @@ location /sitex {
 
 
 
-## Document results, perhaps address security concerns.
--access to nginx port 80 server via website is http protpcol and not https protocol which is encrypted and secure.
+## Document results
+- ngrok link, made cloud user access a computer in  the local area network and in turn that computer rerouted its requests to site X in the Local area network.
+
+## Security concerns
+ -access to nginx port 80 server via website is http protpcol and not https protocol which is encrypted and secure.
 -access through http is a security threat as data isn't encrypted
 
