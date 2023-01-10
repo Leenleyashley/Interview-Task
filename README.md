@@ -37,8 +37,8 @@ location /site X {
         proxy_buffering off;
         proxy_set_header X-Real -IP $remote_addr;
         proxy_set_header X-Forwarded-Host $host;
-        proxy_set_header X-Forwarded-Port $server_port;
-     ```}
+        proxy_set_header X-Forwarded-Port $server_port;}
+ ```
 
  
 ## What does it take to implement a proxying application of this kind?
