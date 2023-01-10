@@ -47,7 +47,7 @@ location /site X {
 -It requires one server like eg nginx that will reroute traffic to another appropetiate server providing a level of abstraction. Has to have two or more servers.
 
 ## Implement a solution.
- 
+ ``` 
 location /sitex {
             	proxy_pass http://192.168.43.211/;
         	proxy_buffering off;
@@ -55,6 +55,8 @@ location /sitex {
         	proxy_set_header X-Forwarded-Host $host;
         	proxy_set_header X-Forwarded-Port $server_port;
  } 
+ ```
+ 
  
         ![IMG-20230110-WA0010](https://user-images.githubusercontent.com/87112355/211549899-403ce142-c278-4f66-84b9-4d8efade3189.jpg)
         ![IMG-20230110-WA0009](https://user-images.githubusercontent.com/87112355/211549939-69fec7aa-2a37-40d0-ac2c-aef5d6a39619.jpg)
