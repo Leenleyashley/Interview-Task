@@ -29,7 +29,11 @@ sudo apt install nginx
 Configure nginx to reverse proxy all routes to site  X to real site in locahost X
 
 By editing config files.
-'''
+```
+git status
+git add
+git commit
+```
 cd /etc/nginx/sites-enabled
 sudo "${EDITOR:-vi}" default
 location /site X {
@@ -39,7 +43,7 @@ location /site X {
         proxy_set_header X-Forwarded-Host $host;
         proxy_set_header X-Forwarded-Port $server_port;
      }
-'''
+
 ## What does it take to implement a proxying application of this kind?
 -It requires one server like eg nginx that will reroute traffic to another appropetiate server providing a level of abstraction. Has to have two or more servers.
 
