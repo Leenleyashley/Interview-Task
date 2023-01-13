@@ -8,7 +8,7 @@ Currently it was known that the ipv4 are not enough to identify all computers pu
 ## What out-of-the-box, free applications can be used to achieve this proxying?
 -Nginx
 -Apache
--Ngrok and Pagekite to enable cloud access localhost via an url link.
+-Ngrok and Pagekite to enable cloud access localhost via a url link.
 
 ## Provide a solution using one of these applications (if you found one).
 Any Computer In the LAN with site X access.
